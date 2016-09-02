@@ -89,7 +89,6 @@ $ kube-config enable-worker
 ```
 
 ## Use Kubernetes
-## Use Kubernetes
 ### Docker
 We use `ontouchstart/rpi-ipython-notebook` for the ipython base image. All images used in the cluster **have to be compiled** for `arm`. You can find those images on Docker Hub searching by keywards like: `rpi-` and `arm-`.
 
